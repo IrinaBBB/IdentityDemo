@@ -5,8 +5,6 @@ namespace ProductStore.Pages.Identity
 {
     public class UserPageModel : PageModel
     {
-        public void OnGet()
-        {
-        }
+      
     }
 }
